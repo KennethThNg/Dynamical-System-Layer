@@ -1,0 +1,6 @@
+numpy >= 1.17.0
+torch >= 1.1.0
+scipy >= 0.17.0
+scikit-learn >= 0.22.0
+skorch >= 0.7.0
+matplotlib >= 3.0.3
